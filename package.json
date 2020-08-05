@@ -1,12 +1,12 @@
 {
-  "name": "Neumorphism",
+  "name": "Amontoya1",
   "version": "1.0.0",
-  "description": "",
+  "description": "> Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.",
   "scripts": {
     "dev": "gulp",
     "prod": "gulp build"
   },
-  "author": "Long Do",
+  "author": "(Andrea Montoya)",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.26.7",
@@ -18,5 +18,18 @@
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
     "node-sass": "^4.13.1"
-  }
+  },
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "repository": "git+https://github.com/Amontoya1/Amontoya1.github.io.git",
+  "keywords": [
+    "Andreas/376"
+  ],
+  "bugs": {
+    "url": "https://github.com/Amontoya1/Amontoya1.github.io/issues"
+  },
+  "homepage": "https://github.com/Amontoya1/Amontoya1.github.io#readme"
 }

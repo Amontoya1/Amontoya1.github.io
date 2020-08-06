@@ -18,12 +18,12 @@
 #   timeline-side: right
 
 - title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+  title-url: http://me.gob.ve/
+  date: Sep 1999 - Agost 2018
+  subtitle:  
   tags:
-    - tag: React
-    - tag: Javascript
+    - tag: Educação
+    - tag: Inovação
     - tag: Ruby
     - tag: Rails
   timeline-side: right

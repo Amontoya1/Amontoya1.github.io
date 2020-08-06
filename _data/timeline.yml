@@ -20,42 +20,26 @@
 - title: Ministerio de Educação
   title-url: http://me.gob.ve/
   date: Sep 1999 - Agost 2018
-  subtitle:  
+  subtitle:  Pedagoga
   tags:
     - tag: Educação
     - tag: Inovação
-    - tag: Ruby
-    - tag: Rails
   timeline-side: right
 
-- title: Google
+- title: Por definir
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date:  Sep 1999 - Agost 2018
+  subtitle: Por definir
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Futuro
+    - tag: Desafios
+    - tag: Habilidades
   timeline-side: right
 
-- title: Super University
+- title: Por definir
   title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  date: Sep 1999 - Agost 2018
+  subtitle: Por definir
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left

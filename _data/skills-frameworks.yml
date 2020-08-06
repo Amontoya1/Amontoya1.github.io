@@ -17,8 +17,3 @@
 - name: Node
   weight: 1
 
-- name: Spring
-  weight: 2
-
-- name: Rails
-  weight: 4

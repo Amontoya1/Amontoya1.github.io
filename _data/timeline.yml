@@ -19,27 +19,30 @@
 
 - title: Ministerio de Educação
   title-url: http://me.gob.ve/
-  date: Sep 1999 - Agost 2018
+  date: Sep 1999 - Agost 2015
   subtitle:  Pedagoga
   tags:
     - tag: Educação
     - tag: Inovação
   timeline-side: right
 
-- title: Por definir
-  title-url: https://example.com/
-  date:  Sep 1999 - Agost 2018
-  subtitle: Por definir
+- title:  Ministerio de Educação
+  title-url: http://me.gob.ve/
+  date:  Sep 2015 - Agost 2018
+  subtitle: Supervisão Educacional
   tags:
-    - tag: Futuro
+    - tag: Ensino Tecnologia
     - tag: Desafios
     - tag: Habilidades
   timeline-side: right
 
-- title: Por definir
-  title-url: https://example.com/
-  date: Sep 1999 - Agost 2018
-  subtitle: Por definir
+- title: Casa Friburog
+  title-url: https://www.facebook.com/CasaFriburgo
+  date:  Junho 2019  - Mar 2020
+  subtitle: Repositor Mercadurias
+  tags:
+    - tag: Experiência
+    - tag: Desafios
   timeline-side: left
 
 

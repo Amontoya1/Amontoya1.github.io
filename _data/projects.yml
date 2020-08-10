@@ -15,17 +15,18 @@
 
 - name: Lojas Andreas
   descr: "Pre produccion de Angular. Loja Produçao tecidos"
-  demo: https://example.com/
+  demo: https://github.com/Amontoya1/LojaAndreas
   tags:
     - tag: Css3
     - tag: Html5
-    - tag: AngularJS
+    - tag: Angular
     - tag: Node
 
 - name: Portfolio
   descr: "Praticas de Css3"
-  demo: https://example.com/
+  demo: https://amontoya1.github.io/Portfolio-Andrea/
   tags:
     - tag: Css3
     - tag: Html5
+    
 
